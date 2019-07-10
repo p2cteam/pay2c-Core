@@ -49,6 +49,6 @@ PoW Block 100 Blocks
 
 PoS : 10% per year
 
-RPC Port 79528
+RPC Port 9528
 
-P2P Port 79527
+P2P Port 8527
