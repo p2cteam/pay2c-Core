@@ -1,0 +1,9 @@
+Building Pay2c
+
+See doc/readme-qt.rst for instructions on building Pay2c QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Pay2c.
+
+See doc/build-*.txt for instructions on building pay2cd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Pay2c.
