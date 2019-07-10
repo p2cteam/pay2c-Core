@@ -1,5 +1,4 @@
 Pay2c is a PoS-based cryptocurrency.
-
 ===========================
 
 DESCRIPTION PAY2C (P2C)
@@ -30,4 +29,5 @@ PoW Block 100 Blocks
 PoS : 10% per year
 
 RPC Port 79528
+
 P2P Port 79527
