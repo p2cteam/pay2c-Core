@@ -1,6 +1,27 @@
 Pay2c is a PoS-based cryptocurrency.
 ===========================
 
+We are a coin based on the Proof-Of-Stake
+(POS) SCRYPT algorithm, as a maximum supply of 10 million
+coins,
+we have brought a relatively simple project that
+covers a simple and easy to understand marketing area,
+Pay to Click ( PTC).
+We are not guaranteeing a new concept in digital currencies,
+a new algorithm or unique ecosystem, we are just trying to
+implement
+Altcoins in this market, exactly what is not happening now,
+few pay-to-click sites use Bitcoin around 10% or any less.
+We just need to have a working currency and a platform that
+works simply, covering all the requirements to attract investors,
+advertisers and a public.
+Bringing a new concept of pay-to-click sites where users
+can get
+straight into their wallets every 24 hours where they do
+their actions within a platform would be a start to create
+exactly what we want.
+
+
 DESCRIPTION PAY2C (P2C)
 =================================
 
