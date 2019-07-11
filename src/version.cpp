@@ -37,7 +37,7 @@ const std::string CLIENT_NAME("Pay2c");
 #define GIT_ARCHIVE 1
 #ifdef GIT_ARCHIVE
 #    define GIT_COMMIT_ID "32a928e"
-#    define GIT_COMMIT_DATE "Thu, 28 Jun 2018 05:35:38 +0200"
+#    define GIT_COMMIT_DATE "07/10/2019"
 #endif
 
 #define BUILD_DESC_FROM_COMMIT(maj,min,rev,build,commit) \

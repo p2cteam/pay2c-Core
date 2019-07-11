@@ -8,7 +8,7 @@ QMainWindow {
 QToolTip{
 	color: #003366;
 	border: 1px solid white;
-	background-color: black;
+	background-color: #FFFFFF;
 }
 
 QDialog {
